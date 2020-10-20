@@ -106,7 +106,9 @@ RSpec.configure do |config|
   require 'capybara'
   require 'capybara/rspec'
   require 'rspec'
+  require 'features/web_helpers'
 
   # tell Capybara about our app class
   Capybara.app = Battle
+
 end

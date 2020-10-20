@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14e18723-a40b-4484-a050-8b68f695c3a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/game.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/player.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/features/attack_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/features/hit_points_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/features/web_helpers.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/game_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/player_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/attack.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/features/enter_names_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/features/enter_names_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/play.erb" beforeDir="false" afterPath="$PROJECT_DIR$/views/play.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +71,9 @@
       <updated>1602764909937</updated>
       <workItem from="1602764914021" duration="752000" />
       <workItem from="1602852795037" duration="389000" />
-      <workItem from="1602938161523" duration="2511000" />
+      <workItem from="1602938161523" duration="2567000" />
+      <workItem from="1603025503511" duration="2979000" />
+      <workItem from="1603200704621" duration="1908000" />
     </task>
     <servers />
   </component>
